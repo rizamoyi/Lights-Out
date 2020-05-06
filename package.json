@@ -1,6 +1,6 @@
 {
   "name": "lights-out",
-  "homepage": "https://rizamoyi.github.io/lights-out",
+  "homepage": "https://rizamoyi.github.io/react-lights-out",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
